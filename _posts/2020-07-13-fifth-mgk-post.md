@@ -42,9 +42,8 @@ def solution(participant, completion):
    
  2. React & Redux: 리덕스로 앱 스테이트 관리하기  
  라덕스의컨테이너, 리듀서, 액션을 사용하여 책 정보를 알수 있는 페이지를 제작하였다.  
- ![image](https://user-images.githubusercontent.com/28749734/87317434-f1f3ae80-c561-11ea-97dd-b0c599dfddde.png){: width="50%" height="300"}
- ![image](https://user-images.githubusercontent.com/28749734/87317453-fcae4380-c561-11ea-9284-6d1f9965e617.png){: width="50%" height="300"}
-
+ <img src="https://user-images.githubusercontent.com/28749734/87317434-f1f3ae80-c561-11ea-97dd-b0c599dfddde.png" width="50%" height="300">
+ <img src="https://user-images.githubusercontent.com/28749734/87317453-fcae4380-c561-11ea-9284-6d1f9965e617.png" width="50%" height="300">  
  아직 리액트에 익숙하지 않은데 리덕스를 공부하려고 하니 너무 어렵게 느껴진다. 조금 쉬운 강의를 알아봐서 변경하던지 해야겠다.  
  
  
