@@ -32,12 +32,12 @@ categories:
 + 회고  
   - 박지우:  
         1. Hash에 대해 공부를 하고 알고리즘 문제를 도전하였으나 아쉽게도 해결하지 못하였다.  
-        소감: 온라인보다 피드백이 잘되어 좋고 궁금한점을 물어보고 도움을 받을 수 있어서 좋았다.
+        소감: 온라인보다 피드백이 잘되어 좋고 궁금한점을 물어보고 도움을 받을 수 있어서 좋았다.  
         중간 소감: 초기에 너무 방대한 계획을 세워 깊은 학습을 하지 못하였다. 다음부터는 계획을 잡을때 신중해야겠다.     
   - 조윤희:   
         1. 리액트 강의 8개 수강: 기본적인 개념, 회원가입 라우터 생성 기능 학습  
         2. 알고리즘: 우선순위 큐를 이용한 다익스트라 알고리즘 정리하며 공부  
-        소감: VSCode 오류를 팀장님과 함께 해결할 수 있어 좋았당  
+        소감: VSCode 오류를 팀장님과 함께 해결할 수 있어 좋았다  
         중간 소감: 지금까지 열심히 했던거 같다. 앞으로의 계획을 수정하여 딥러닝에 집중하고자 한다.  
   - 최수연:   
         1. 알고리즘 문제를 시간 복잡도를 이용하여 해결  
@@ -52,7 +52,8 @@ categories:
   
   
 + 5일차 진행에 대한 개인 블로그  
- - [박지우](https://jwpark6.github.io/day5/)  
- - [조윤희](https://uni2237.github.io/mgc/mgc05/)  
- - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/sixth-mgk-post/)  
- - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-5%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)  
+  - [박지우](https://jwpark6.github.io/day5/)  
+  - [조윤희](https://uni2237.github.io/mgc/mgc05/)  
+  - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/sixth-mgk-post/)  
+  - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-5%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)  
+ 
