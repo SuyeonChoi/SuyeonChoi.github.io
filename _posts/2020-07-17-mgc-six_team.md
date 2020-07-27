@@ -12,8 +12,7 @@ categories:
 ### 6일차 진행정보  
 
 
-+ 2020년 7월 08일 20:15 - 23:15  
-+ 개인 사정으로 인한 원래 시간보다 15분 뒤 모임 시작
++ 2020년 7월 27일 20:00 - 23:00  
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/26339800/88536845-7278db80-d047-11ea-89b8-0e0e312d75cb.png">  
 ![2](https://user-images.githubusercontent.com/26339800/88536815-67be4680-d047-11ea-9fa2-1dca83172f0b.jpg)
 
