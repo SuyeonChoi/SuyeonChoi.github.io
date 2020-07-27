@@ -20,62 +20,57 @@ categories:
  2. [BOJ 문제](https://github.com/cnu-pai/2020SUMMER-AlgorithmStudy/blob/master/%EC%B5%9C%EC%88%98%EC%97%B0/p18808.py)_Python   
    - Gold 3 수준의 문제를 풀고 [깃레퍼짓토리](https://github.com/cnu-pai/2020SUMMER-AlgorithmStudy/blob/master/%EC%B5%9C%EC%88%98%EC%97%B0/p18808.py)d에 push하였다.  
    - 알고리즘 풀이 설명:  
-   ```python  
-   N, M, K = map(int, input().split())  
-   note = [[0]*M for _ in range(N)]  
-   
-   def isFitted(r, c, x, y, sticker):  
-       for i in range(r):  
-           for j in range(c):  
-               if sticker[i][j] == 1 and note[x+i][y+j] == 1:  
-                   return False  
-       for i in range(r):  
-           for j in range(c):  
-               if sticker[i][j] == 1 and note[x+i][y+j] == 0:  
-                   note[x+i][y+j] = 1  
-       return True  
-   
-   
-   def rotate(r, c, sticker):  
-       transform = [[0]*r for _ in range(c)]  
-       p = r  
-       for i in range(r):  
-           p -= 1  
-           for j in range(c):  
-               transform[j][p] = sticker[i][j]  
-       return transform, c, r  
-   
-   
-   for s in range(K):  
-       R, C = map(int, input().split())  
-       sticker = [list(map(int, input().split())) for _ in range(R)]  
-       isfit = False  
-       for r in range(4):  
-           for i in range(N):  
-               if N - i < R:  
-                   continue  
-               for j in range(M):  
-                   if M - j < C:  
-                       break  
-                   if isFitted(R, C, i, j, sticker):  
-                       isfit = True  
-                       break  
-               if isfit == True:  
-                   break  
-           if isfit == True:  
-               break  
-           sticker, R, C = rotate(R, C, sticker)  
-   
-   
-     
-   result = 0  
-   for i in range(N):  
-       for j in range(M):  
-           if note[i][j] == 1:  
-               result += 1  
-   print(result)  
-        
-   ```   
+```python  
+N, M, K = map(int, input().split())  
+note = [[0]*M for _ in range(N)]  
+
+def isFitted(r, c, x, y, sticker):  
+    for i in range(r):  
+        for j in range(c):  
+            if sticker[i][j] == 1 and note[x+i][y+j] == 1:  
+                return False  
+    for i in range(r):  
+        for j in range(c):  
+            if sticker[i][j] == 1 and note[x+i][y+j] == 0:  
+                note[x+i][y+j] = 1  
+    return True  
+  
+def rotate(r, c, sticker):  
+    transform = [[0]*r for _ in range(c)]  
+    p = r  
+    for i in range(r):  
+        p -= 1  
+        for j in range(c):  
+            transform[j][p] = sticker[i][j]  
+    return transform, c, r  
+  
+for s in range(K):  
+    R, C = map(int, input().split())  
+    sticker = [list(map(int, input().split())) for _ in range(R)]  
+    isfit = False  
+    for r in range(4):  
+        for i in range(N):  
+            if N - i < R:  
+                continue  
+            for j in range(M):  
+                if M - j < C:  
+                    break  
+                if isFitted(R, C, i, j, sticker):  
+                    isfit = True  
+                    break  
+            if isfit == True:  
+                break  
+        if isfit == True:  
+            break  
+        sticker, R, C = rotate(R, C, sticker)  
+
+result = 0  
+for i in range(N):  
+    for j in range(M):  
+        if note[i][j] == 1:  
+            result += 1  
+print(result)   
+```   
    모든 경우의 수에 대한 계산을 하는 방식으로  
    (1) 왼쪽 가장 위쪽부터 시작하여 스티커를 붙일 수 있는지  
    (2) 없다면, 90도, 180도, 270도로 회전한 경우 가능한지  
