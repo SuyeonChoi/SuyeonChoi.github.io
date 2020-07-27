@@ -14,7 +14,9 @@ categories:
 
 + 2020년 7월 27일 20:00 - 23:00  
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/26339800/88536845-7278db80-d047-11ea-89b8-0e0e312d75cb.png">  
-![2](https://user-images.githubusercontent.com/26339800/88536815-67be4680-d047-11ea-9fa2-1dca83172f0b.jpg)
+
+![2](https://user-images.githubusercontent.com/26339800/88536815-67be4680-d047-11ea-9fa2-1dca83172f0b.jpg)  
+
 
 
 ### 목표 및 회고  
