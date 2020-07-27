@@ -39,13 +39,25 @@ categories:
   
     
 + 회고  
-
+ -조윤희
+  1. OpenCV 강의를 3강까지 들으려고 했었는데 2강까지 들어서 영상처리와 컴퓨터 비전에 대한 기초 설명,  
+     OpenCV 내장함수를 사용해서 이미지와 영상 불러오기 까지 실습하였다. (실습 코드 깃허브에 업로드 함)  
+ -박지우
+  1. '그래프' 개념 공부(책보고) 인프런 강의 2개 수강 dfs,bfs 탐색 공부 후 예제 문제 풀이
+  2. 자바로 구현된 실습코드로 '그래프' 공부
+ -한승훈
+  1. 백준 이진탐색문제 2개 풀이(나무자르기, 숫자카드)
+  2. 완주하지 못한 선수(해쉬) 문제 풀음 
+ -최수연
+  1. 자료구조 arraylist 이용한 스택,큐 구현 (내장함수 사용)
+  2. 백준의 스티커붙이기(골드 3) 문제 품
+  3. 졸프- Redis+GraphQL 동영상 시청
  
    
    
 + 6일차 진행에 대한 개인 블로그  
-  - [박지우](https://jwpark6.github.io/day3/)  
-  - [조윤희](https://uni2237.github.io/mgc/MGC03/)  
-  - [최수연](https://suyeonchoi.github.io/mgk/fourth-mgk-post/)  
-  - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-3%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)
+  - [박지우](https://jwpark6.github.io/day6/)  
+  - [조윤희](https://uni2237.github.io/mgc/mgc06/)  
+  - [최수연](https://suyeonchoi.github.io/mgk/%EB%AA%A8%EA%B0%81%EC%BD%94/seventh-mgk-post/)  
+  - [한승훈](https://gooriiie.github.io/%EB%AA%A8%EA%B0%81%EC%BD%94-6%EC%A3%BC%EC%B0%A8-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%9A%8C%EA%B3%A0/)
   
