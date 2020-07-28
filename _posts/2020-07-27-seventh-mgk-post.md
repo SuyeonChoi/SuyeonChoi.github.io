@@ -42,7 +42,6 @@ categories:
           for j in range(c):  
               transform[j][p] = sticker[i][j]  
       return transform, c, r  
-  
   for s in range(K):  
       R, C = map(int, input().split())  
       sticker = [list(map(int, input().split())) for _ in range(R)]  
@@ -62,7 +61,6 @@ categories:
           if isfit == True:  
               break  
           sticker, R, C = rotate(R, C, sticker)  
-            
   result = 0  
   for i in range(N):  
       for j in range(M):  
