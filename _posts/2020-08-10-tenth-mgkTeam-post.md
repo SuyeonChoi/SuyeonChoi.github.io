@@ -7,7 +7,7 @@ categories:
 --- 
 
 
-{% include mgkVideo.html id="xJ8ymVGMb1s" %}   
+{% include mgkVideo.html id=xJ8ymVGMb1s %}   
 
   
 작성자: 최수연
