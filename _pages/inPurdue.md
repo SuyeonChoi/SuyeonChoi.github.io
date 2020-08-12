@@ -1,6 +1,6 @@
 ---
 title: "inPurdue"
-layout: categories
+layout: category
 permalink: /categories/inpurdue/
 author_profile: true
 taxonomy: inPurdue
