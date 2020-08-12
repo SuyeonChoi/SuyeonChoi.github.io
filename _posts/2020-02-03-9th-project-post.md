@@ -1,7 +1,9 @@
 ---
 title: "2020/02/03 9th post"
 date: 2020-02-03  
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 <img width="500" src="https://user-images.githubusercontent.com/28749734/73770947-57d64180-474b-11ea-8d02-90d0268439b9.jpg">  
 We asked for advise to Dana, a mentor eminent in Machine Learning technology.    

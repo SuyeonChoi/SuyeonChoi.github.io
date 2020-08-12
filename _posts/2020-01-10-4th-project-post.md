@@ -1,7 +1,9 @@
 ---
 title: "2020/01/10 4th post"
 date: 2020-01-10 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 ### Division for starting a project  
  <img width="350" src="https://user-images.githubusercontent.com/28749734/72158917-4cc90500-3389-11ea-9a39-340d0801dd09.jpg">  

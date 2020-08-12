@@ -1,7 +1,9 @@
 ---
 title: "Introducing our purdue's friend"
 date: 2020-02-19 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 
 ### Haoyu Han   

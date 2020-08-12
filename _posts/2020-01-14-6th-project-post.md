@@ -1,7 +1,9 @@
 ---
 title: "2020/01/14 6th post"
 date: 2020-01-14  
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 
 ### Selecting Project's Main Topic  

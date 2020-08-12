@@ -1,7 +1,9 @@
 ---
 title: "2020/01/22 8th post"
 date: 2020-01-22  
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 
 ### Change project subject

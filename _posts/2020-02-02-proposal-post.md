@@ -1,7 +1,9 @@
 ---
 title: "Project Proposal"
 date: 2020-02-02  
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 
 ## Abstract    

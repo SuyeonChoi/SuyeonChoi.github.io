@@ -1,7 +1,9 @@
 ---
 title: "2020/01/08 2nd post"
 date: 2020-01-08 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 ---
 
 ### Getting Information about the project

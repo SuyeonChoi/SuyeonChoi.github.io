@@ -1,7 +1,9 @@
 ---
 title: "20200107-1st-project-post"
 date: 2020-01-07 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 ---
 first, our project topic was **"Agriculture in IoT"** and detail topic was **"improved Energy Monitoring and Analytics"**.  
 Professor said that students whose project topic is "Ag IoT" should make a presentation about their detail topic.  

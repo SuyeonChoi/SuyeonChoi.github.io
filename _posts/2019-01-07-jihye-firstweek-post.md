@@ -1,7 +1,9 @@
 ---
 title: "1st week"
 date: 2019-01-07  
-categories: Jihye'sPage
+categories: 
+ - inPurdue
+ - Jihye'sPage
 ---
 비행기를 탄 동안 너무 지루했지만, 이렇게 먼 곳을 여행가는 것은 생애 처음이었기 때문에 들뜬 마음도 있었다.  
 나는 다른사람들과 달리 실수로(^^;;) 코드쉐어로 비행기를 예매하게 되었지만,  

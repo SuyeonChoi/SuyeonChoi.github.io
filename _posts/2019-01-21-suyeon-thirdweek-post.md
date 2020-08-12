@@ -1,7 +1,9 @@
 ---
 title: "1월 셋째주 일상:코렉&청강하기&내생일!!(MLK Day)"
 date: 2019-01-21
-categories: Suyeon'sPage
+categories: 
+ - inPurdue
+ - Suyeon'sPage
 ---
 
 ### 1/13

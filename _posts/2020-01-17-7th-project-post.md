@@ -1,7 +1,9 @@
 ---
 title: "2020/01/17 7th post"
 date: 2020-01-17  
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 
 We assigned works.  

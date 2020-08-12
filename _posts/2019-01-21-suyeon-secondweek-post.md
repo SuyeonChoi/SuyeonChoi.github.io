@@ -1,7 +1,9 @@
 ---
 title: "1월 둘째주 일상:영화보기&티피카누몰&"
 date: 2019-01-21
-categories: Suyeon'sPage
+categories: 
+ - inPurdue
+ - Suyeon'sPage
 ---
 
 엄마한테 이 블로그를 알려줬더니 왜 첫째주만 올라오고 소식이 없냐고 잔소리 들었다...  

@@ -1,7 +1,9 @@
 ---
 title: "1월 첫째주 일상(before starting project)"
 date: 2019-01-02 
-categories: Suyeon'sPage
+categories: 
+ - inPurdue
+ - Suyeon'sPage
 ---
 
 ### 12/30 ICN -> ORD  

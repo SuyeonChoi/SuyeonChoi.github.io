@@ -2,10 +2,10 @@
 main:
   - title: "Purdue"
     url: /categories/inpurdue/
-  - title: "성찜당"
+  - title: "모각코"
     url: /categories/mgk/
-  - title: "MGK"
-    url: /categories/mymgk/
+  - title: "TIL"
+    url: /categories/til/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

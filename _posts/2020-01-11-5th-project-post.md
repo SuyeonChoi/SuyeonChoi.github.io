@@ -1,7 +1,9 @@
 ---
 title: "2020/01/11 5th post"
 date: 2020-01-11 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 --- 
 Robot movement team's work was moving P3-AT robot using program.  
 So we(Robot movement team) tried to move it.    

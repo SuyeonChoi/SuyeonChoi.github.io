@@ -1,7 +1,9 @@
 ---
 title: "20200109-3rd-project-post"
 date: 2020-01-09 
-categories: Project
+categories: 
+ - inPurdue
+ - Project
 ---  
 All the people whose project topic is "Targeting AI Robot", including our team, didn't know exactly about this topic.  
 Because we only know about blueprint of this topic.  

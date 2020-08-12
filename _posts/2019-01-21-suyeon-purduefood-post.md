@@ -1,7 +1,9 @@
 ---
 title: "퍼듀 캠퍼스 맛집을 찾아서!!"
 date: 2019-01-21 
-categories: Suyeon'sPage
+categories: 
+ - inPurdue
+ - Suyeon'sPage
 ---
 # PMU(밀카드O)
 ### Lemongrass
