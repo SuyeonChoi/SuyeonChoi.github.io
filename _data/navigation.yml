@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Categories"
+    url: /categories/
   - title: "Purdue"
     url: /categories/inpurdue/
   - title: "성찜당"
