@@ -1,5 +1,5 @@
 ---
-title: "TIL-1st week"
+title: "[Python/DL]TIL-1st week"
 date: 2020-08-10
 categories: 
  - TIL
