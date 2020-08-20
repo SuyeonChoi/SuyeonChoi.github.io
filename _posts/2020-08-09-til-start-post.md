@@ -1,5 +1,5 @@
 ---
-title: "11주 목표의 TIL 시작"
+title: "[Python/DL]11주 목표의 TIL 시작"
 date: 2020-08-09
 categories: 
  - TIL
