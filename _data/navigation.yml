@@ -4,10 +4,8 @@ main:
     url: /categories/
   - title: "Purdue"
     url: /categories/inpurdue/
-  - title: "성찜당"
+  - title: "모각코"
     url: /categories/mgk/
-  - title: "모각코 개인보고서"
-    url: /categories/mymgk/
   - title: "TIL"
     url: /categories/til/
   # - title: "Sample Collections"

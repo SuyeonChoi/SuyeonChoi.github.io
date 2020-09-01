@@ -1,6 +1,11 @@
+---
+title: "[Python/DL]TIL-4th week"
+date: 2020-08-31
+categories: 
+ - TIL
+---  
 
 ## 20200831
-## 20200830  
 ### 파이썬 웹 개발(진도율 8%)  
  - 02. 웹 기본 및 프론트엔드 기초: 11.03. HTML, CSS(1)
  - font-size  
