@@ -22,6 +22,7 @@ categories:
 ## 20200904   
 ### 파이썬 웹 개발(진도율 10%)  
  - 02.웹 기본 및 프론트엔드 기초: 17.03. ~ 20.03. HTML, CSS(1)   
+ - [실습자료](https://github.com/SuyeonChoi/TIL/commit/655c2011fdea28c2156e43c50216d75b7dc56f2a#diff-9c969612880def3e2557df1f7ca49161)  
 
 ## 20200906
 ### 파이썬 웹 개발(진도율 10%)  
