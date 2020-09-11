@@ -21,4 +21,12 @@ categories:
  
 ## 20200911
 ### 딥러닝/인공지능(진도율 %)
- - PART1.인공지능에 대한 개념과 준비: 01.~05. 인공지능 개념 이해
+ - PART1.인공지능에 대한 개념과 준비: 01.~03. 인공지능 개념 이해  
+ - 딥러닝의 학습 과정  
+ <img width="560" alt="ai_1" src="https://user-images.githubusercontent.com/28749734/92939928-62974880-f489-11ea-8f98-cb294bd96bcd.PNG">  
+ - 딥러닝 용어  
+   + Convolution : 합성법. 합성을 하여 이미지의 특징을 추출하는 것  
+   + Pooling Layer: 이미지가 가진 특징으로 압축  
+   + Optimization: 최적화  
+   + Activation Function: 함수에 따라 불필요한 값 제거  
+   + Softmax: 값들을 확률로 변형  
