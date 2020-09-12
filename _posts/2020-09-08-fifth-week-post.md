@@ -20,7 +20,7 @@ categories:
  - 02.웹 기본 및 프론트엔드 기초: 30.05. ~ 33.05. Git, Github  
  
 ## 20200911
-### 딥러닝/인공지능(진도율 %)
+### 딥러닝/인공지능(진도율 8%)
  - PART1.인공지능에 대한 개념과 준비: 01.~03. 인공지능 개념 이해  
  - 딥러닝의 학습 과정  
  <img width="560" alt="ai_1" src="https://user-images.githubusercontent.com/28749734/92939928-62974880-f489-11ea-8f98-cb294bd96bcd.PNG">  
@@ -30,3 +30,21 @@ categories:
    + Optimization: 최적화  
    + Activation Function: 함수에 따라 불필요한 값 제거  
    + Softmax: 값들을 확률로 변형  
+      
+## 20200913  
+### 딥러닝/인공지능(진도율 8%)  
+ - PART1.인공지능에 대한 개념과 준비: 04.~05. 인공지능 개념 이해  
+ - 딥러닝 용어  
+   + Learning Rate: 하이퍼 파라미터. 학습시 사람이 cost를 직접 적절하게 조절하는 것   
+   + Batch Size: 모든 데이터를 한번에 모델에 넣어줄 수 없으므로 얼마나 나누어(batch)로 조절하는 크기   
+   + Epoch / Step: 인공지능이 반복하는 수  
+   + Train / Validation / Test: 크게 train과 test로 나눔. train-훈련, test-테스트  
+   <img width="391" alt="train" src="https://user-images.githubusercontent.com/28749734/92999529-79f33600-f55c-11ea-8022-eb4a1c81c0d6.PNG">  
+   + Label / Ground Truth: 모델 데이터셋에 대한 정답  
+ - CNN 모델 구조   
+   + Feature Extraction / Classification: Convolution 필터로 특징 추출
+   + Convolution Layer: 필터(패턴)에 따라 특징 합성.추출  
+   + Pooling Layer(Max Pooling): 값이 높은 것(중요한 것)을 추출 ex) 이미지 압축  
+   + Activation Function(ReLU): 불필요한 것 제거  
+   + Fully Connect: 계산하여 예측  
+   + 보통 Convolution ~ Activation을 반복한 것으로 Fully Connect를 하는 과정으로 이루어짐  
