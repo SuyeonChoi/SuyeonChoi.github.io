@@ -15,3 +15,14 @@ categories:
  - PART2)Tensorflow2.0과 Pytorch 프레임워크 기초: 01~03. Tensorflow 2.0   
  - [Tensorflow2.0 기초 사용법](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/01.TensorFlow%20%EA%B8%B0%EC%B4%88%20%EC%82%AC%EC%9A%A9%EB%B2%95.ipynb)  
  - [예제 dataset(MNIST)](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/02.%20%EC%98%88%EC%A0%9C%20dataset(MNIST).ipynb)  
+
+
+## 20200917  
+### 딥러닝/인공지능(진도율 15%)  
+ - PART2)Tensorflow2.0과 Pytorch 프레임워크 기초: 04~11. Tensorflow 2.0   
+ - [각 Layer 개념 파악](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/03.%EA%B0%81%20Layer%EB%B3%84%20%EC%97%AD%ED%95%A0%20%EA%B0%9C%EB%85%90%20%EB%B0%8F%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%ED%8C%8C%EC%95%85.ipynb)  
+   + Feature Extraction - Convolution, Activation Function, Pooling   
+   + Fully Connected - Flatten, Dense, Dropout  
+ - [Keras:Optimizer & Training](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/04.Optimization%20%EB%B0%8F%20Training(Keras).ipynb)  
+ - [Expert ver.:Optimizer & Training](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/06.Optimization%20%EB%B0%8F%20Training(Expert).ipynb)  
+ - [Evaluating & Predicting](https://github.com/SuyeonChoi/TIL/blob/master/Deep%20Learning(A.I.)/03.%20Part2_Tensorflow2.0%EA%B3%BC%20Pytorch%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EC%B4%88/07.Evaluating%20%26%20Predicting.ipynb)  
