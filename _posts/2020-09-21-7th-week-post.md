@@ -20,7 +20,12 @@ categories:
  - [Static](https://github.com/SuyeonChoi/TIL/commit/34403df3ea04b6f6bb494d6e784d48b2660c74cb#diff-d34089681cd02d417652e8d49699d48a): 다운받은 Bootstrap CSS 적용  
  
 ## 20200926
-### 파이썬 웹 개발(진도율 )
+### 파이썬 웹 개발(진도율 18%)
  - 03.FrameWork Django 기초: 04.로그인
  - [로그인](https://github.com/SuyeonChoi/TIL/commit/44f762b3a000ae107f55344f53f88b08d2a1b1db)   
- - [Django form 을 사용하여 변형](https://github.com/SuyeonChoi/TIL/commit/fa1db6f2c9bdc80d96e194d04867a291894ef103)
+ - [Django form 을 사용하여 변형](https://github.com/SuyeonChoi/TIL/commit/fa1db6f2c9bdc80d96e194d04867a291894ef103)  
+
+## 20200927
+### 파이썬 웹 개발(진도율 20%)
+ - 03.FrameWork Django 기초: 05.게시판 ~ 07.배포
+ - [게시판]()
