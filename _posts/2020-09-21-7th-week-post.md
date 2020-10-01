@@ -28,4 +28,5 @@ categories:
 ## 20200927
 ### 파이썬 웹 개발(진도율 19%)
  - 03.FrameWork Django 기초: 05.게시판 ~ 07.배포
- - [게시판]()
+ - [게시판 제작부터 배포까지](https://github.com/SuyeonChoi/TIL/commit/d82a51b7bbf2647beee00d66a51e8bade525b644)  
+ - 배포: [pythonanywhere](http://suyeonchoi.pythonanywhere.com/) 사용
