@@ -26,6 +26,6 @@ categories:
  - [Django form 을 사용하여 변형](https://github.com/SuyeonChoi/TIL/commit/fa1db6f2c9bdc80d96e194d04867a291894ef103)  
 
 ## 20200927
-### 파이썬 웹 개발(진도율 20%)
+### 파이썬 웹 개발(진도율 19%)
  - 03.FrameWork Django 기초: 05.게시판 ~ 07.배포
  - [게시판]()
