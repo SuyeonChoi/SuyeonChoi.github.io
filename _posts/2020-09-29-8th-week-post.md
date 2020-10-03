@@ -12,3 +12,9 @@ categories:
 20201001
 ### 파이썬 웹 개발(진도율 20%)
  - 04.FrameWork Django 실전: 03.View  
+
+
+20201001
+### 파이썬 웹 개발(진도율 20%)
+ - 04.FrameWork Django 실전: 04.Decorator  
+
