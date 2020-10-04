@@ -18,3 +18,6 @@ categories:
 ### 파이썬 웹 개발(진도율 20%)
  - 04.FrameWork Django 실전: 04.Decorator  
 
+## 20201004
+### 파이썬 웹 개발(진도율 20%)
+ - 04.FrameWork Django 실전: 05.리팩토링  
