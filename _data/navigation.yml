@@ -4,6 +4,8 @@ main:
     url: /categories/
   - title: "Purdue"
     url: /categories/inpurdue/
+  - title: "백마인턴십"
+    url: /categories/intern/
   - title: "모각코"
     url: /categories/mgk/
   - title: "TIL"
