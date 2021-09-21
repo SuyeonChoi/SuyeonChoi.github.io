@@ -7,5 +7,6 @@ categories:
 ---
 
 하단 사진 클릭시 유튜브 발표 영상으로 이동합니다.
-[![모각코발표동영상](http://img.youtube.com/vi/xJ8ymVGMb1s/0.jpg)](http://www.youtube.com/watch?v=xJ8ymVGMb1s "mgk")  
+<img width="900" alt="mgk" src="https://user-images.githubusercontent.com/28749734/134195054-834005a4-3fba-45ac-83ec-c91b0c4261d0.png">
+
 작성자: 최수연
